@@ -1,4 +1,4 @@
-# ayooo
+<h1 text-align:center;>sup</h1>
 ### I'm A Crazy Town, I do animations, art, coding and sometimes music
 
 PLAY THE [DING MOD!!!!](https://gamebanana.com/mods/301335) woohooo
