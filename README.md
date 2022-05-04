@@ -12,9 +12,11 @@ Most of my "Git Hubs" are **Haxe** and **Python**, but I am also familiar with a
 - php
 
 yea, here's my other stuff too:
-https://youtube.com/c/acrazytown
-https://acrazytown.itch.io/
-https://twitter.com/acrazytown
-https://soundcloud.com/a-crazy-town
+
+- https://youtube.com/c/acrazytown
+- https://acrazytown.itch.io/
+- https://twitter.com/acrazytown
+- https://soundcloud.com/a-crazy-town
+
 
 thx for watchin, lik and scubribe
