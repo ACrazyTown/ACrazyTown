@@ -6,6 +6,8 @@ I am a silly man...
 
 they call me an animatore, artiste composore and programmere...
 
+I'm currently working on **[DingDong's Funkin' 2.0](https://gamebanana.com/mods/301335)** (as of September 2021)
+
 Most of my "Git Hubs" are **Haxe** and **Python**, but I am also familiar with a few other languages such as:
 - node.js
 - base website package (html+css+js)
