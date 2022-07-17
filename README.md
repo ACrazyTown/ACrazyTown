@@ -8,7 +8,7 @@ My current projects are:
   - A **[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** mod based on the famous animator **[DingDongDirt](https://www.youtube.com/c/DingDongDirt)** (now known as Dorbellprod).
   - It started as an inside joke, but I've invested so much time into it that I don't wanna quit. People like OC mods anyways, right?
 
-I use these lil' programming languages:
+I use these lil' programming languages/frameworks:
 <div>
   <a href="https://haxe.org"><img width="64" height="64" src="haxe.png"></a>
   <a href="https://haxeflixel.com"><img width="64" height="64" src="haxeflixel.svg"></a>
