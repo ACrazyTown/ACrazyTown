@@ -1,7 +1,7 @@
 # **A Crazy Town**
 <img align="right" src="https://user-images.githubusercontent.com/47027981/147223424-495d48c3-81d9-4228-8d6b-25d687bfec35.png" alt="Cute dog sniffing the camera.">
 
-Hi! I'm **A Crazy Town**, or more formally, Anthony! I do lots of stuff, but I mainly **animate**, **draw**, **compose beats here and there**, and of course, **code.**
+Hi! I'm **A Crazy Town**, or more informally, Anthony! I do lots of stuff, but I mainly **animate**, **draw**, **compose beats here and there**, and of course, **code.**
 
 My projects are:
 - ***Active***
