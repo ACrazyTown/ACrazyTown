@@ -3,16 +3,6 @@
 
 Hi! I'm **A Crazy Town**, or more informally, Anthony! I do lots of stuff, but I mainly **animate**, **draw**, **compose beats here and there**, and of course, **code.**
 
-My projects are:
-- ***Active***
-  - **[DingDong's Funkin' 2.0](https://gamebanana.com/mods/301335)** (As of September 2021)
-    - A **[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** mod based on the famous animator **[DingDongDirt](https://www.youtube.com/c/DingDongDirt)** (now known as Dorbellprod).
-     - It started as an inside joke, but I've invested so much time into it that I don't wanna quit. People like OC mods anyways, right?
-- ***Finished/Inactive***
-  - **[Donut Dodger](https://acrazytown.itch.io/donut-dodger)**
-    - Donut Dodger is a game where you dodge donuts, and it's pretty awesome!
-- ***[idk there's a lot of stuff here...](https://github.com/ACrazyTown?tab=repositories)***
-
 I use these lil' programming languages/frameworks:
 <div>
   <a href="https://haxe.org"><img width="64" height="64" src="haxe.png"></a>
