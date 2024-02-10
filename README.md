@@ -10,7 +10,7 @@ But aside from game development I also know how to use some other languages:
 <div>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="57" height="64" src="assets/ISO_C++_Logo.svg.png"></a>
   <a href="https://python.org"><img width="64" height="64" src="assets/pypy.png"></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5"><img width="64" height="64" src="html5.png"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img width="64" height="64" src="assets/html5.png"></a>
   <a href="https://php.net"><img width="80" height="43" src="assets/php.png"></a>
 </div>
 
