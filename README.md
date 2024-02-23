@@ -6,7 +6,7 @@ Hi! I'm **A Crazy Town**, or more informally, Anthony! I like doing a lot of ran
 
 I code random things, but it's mostly just games I make when I'm bored. For that I use <a href="https://haxe.org">Haxe</a> <a href="https://haxe.org"><img width="16" height="16" src="assets/haxe.png"></a> with <a href="https://haxeflixel.com">HaxeFlixel</a> <a href="https://haxeflixel.com"><img width="16" height="16" src="assets/haxeflixel.svg"></a>
 
-But aside from game development I also know how to use some other languages:
+But aside from game development I also know how to use (or I'm learning) some other languages:
 <div>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="57" height="64" src="assets/ISO_C++_Logo.svg.png"></a>
   <a href="https://python.org"><img width="64" height="64" src="assets/pypy.png"></a>
