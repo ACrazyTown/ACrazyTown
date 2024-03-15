@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/47027981/147223424-495d48c3-81d9-4228-8d6b-25d687bfec35.png" alt="Cute dog sniffing the camera.">
 
 ## ***About Me***
-Hi! I'm **A Crazy Town**, or more informally, Anthony! I like doing a lot of random things whether that be art, animation, composing music or the thing that you're here for, code!
+Hi! I'm **A Crazy Town**! I like doing a lot of random things whether that be art, animation, composing music or the thing that you're here for, code!
 
 I code random things, but it's mostly just games I make when I'm bored. For that I use <a href="https://haxe.org">Haxe</a> <a href="https://haxe.org"><img width="16" height="16" src="assets/haxe.png"></a> with <a href="https://haxeflixel.com">HaxeFlixel</a> <a href="https://haxeflixel.com"><img width="16" height="16" src="assets/haxeflixel.svg"></a>
 
