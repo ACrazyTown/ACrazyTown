@@ -18,8 +18,10 @@ But aside from game development I also know how to use (or I'm learning) some ot
   - [acrazytown.com](https://acrazytown.com/)
       - MY WEBSITE!!! I MADE IT!!! FROM SCRATCH!!!
       - ...but it's kinda rough because I don't like graphic design
+  <!--
   - [ace](https://github.com/ACrazyTown/ace)
       - A work-in-progress very early in development C++ game engine that uses SDL2 & OpenGL
+  -->
   - [DingDong's Funkin' v2.0](https://gamebanana.com/mods/301335)
     - The Friday Night Funkin' mod where you battle [DingDongDirt](https://twitter.com/dorbellprod), the world famous small animator!
     - *I don't do FNF stuff anymore... but I spent some time on this mod and I think it turned out kinda cool...*
