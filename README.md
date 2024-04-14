@@ -17,7 +17,6 @@ But aside from game development I also know how to use (or I'm learning) some ot
 ## ***Some of my projects worth noting:***
   - [acrazytown.com](https://acrazytown.com/)
       - MY WEBSITE!!! I MADE IT!!! FROM SCRATCH!!!
-      - ...but it's kinda rough because I don't like graphic design
   <!--
   - [ace](https://github.com/ACrazyTown/ace)
       - A work-in-progress very early in development C++ game engine that uses SDL2 & OpenGL
