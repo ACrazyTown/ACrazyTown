@@ -4,7 +4,7 @@
 ## ***About Me***
 Hi! I'm **A Crazy Town**! I like doing a lot of random things whether that be art, animation, composing music or the thing that you're here for, code!
 
-I basically code whatever comes to mind. Whether that be silly little games or some other thingamajig. Currently I mostly use <a href="https://haxe.org">Haxe</a> <a href="https://haxe.org"><img width="16" height="16" src="assets/haxe.png"></a> (with the <a href="https://haxeflixel.com">HaxeFlixel framework</a> <a href="https://haxeflixel.com"><img width="16" height="16" src="assets/haxeflixel.svg"></a> if I make games).
+I basically code whatever comes to mind, whether that be silly little games or some other thingamajig. Currently I mostly use <a href="https://haxe.org">Haxe</a> <a href="https://haxe.org"><img width="16" height="16" src="assets/haxe.png"></a> (with the <a href="https://haxeflixel.com">HaxeFlixel framework</a> <a href="https://haxeflixel.com"><img width="16" height="16" src="assets/haxeflixel.svg"></a> if I make games).
 
 I also know some other programming languages to a varying degree:
 <div>
