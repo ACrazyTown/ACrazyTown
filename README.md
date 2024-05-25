@@ -10,8 +10,8 @@ I also know some other programming languages to a varying degree:
 <div>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="57" height="64" src="assets/ISO_C++_Logo.svg.png"></a>
   <a href="https://python.org"><img width="64" height="64" src="assets/pypy.png"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS"></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img width="44" height="64" src="assets/csslogo.png"></a> <!-- I completely eyeballed the size for this one lmfao -->
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="48" height="48" src="assets/jslogo.png"></a>
   <a href="https://en.wikipedia.org/wiki/HTML5"><img width="64" height="64" src="assets/html5.png"></a>
   <a href="https://php.net"><img width="80" height="43" src="assets/php.png"></a>
 </div>
