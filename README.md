@@ -4,29 +4,40 @@
 ## ***About Me***
 Hi! I'm **A Crazy Town**! I like doing a lot of random things whether that be art, animation, composing music or the thing that you're here for, code!
 
-I code random things, but it's mostly just games I make when I'm bored. For that I use <a href="https://haxe.org">Haxe</a> <a href="https://haxe.org"><img width="16" height="16" src="assets/haxe.png"></a> with <a href="https://haxeflixel.com">HaxeFlixel</a> <a href="https://haxeflixel.com"><img width="16" height="16" src="assets/haxeflixel.svg"></a>
+I basically code whatever comes to mind. Whether that be silly little games or some other thingamajig. Currently I mostly use <a href="https://haxe.org">Haxe</a> <a href="https://haxe.org"><img width="16" height="16" src="assets/haxe.png"></a> (with the <a href="https://haxeflixel.com">HaxeFlixel framework</a> <a href="https://haxeflixel.com"><img width="16" height="16" src="assets/haxeflixel.svg"></a> if I make games).
 
-But aside from game development I also know how to use (or I'm learning) some other languages:
+I also know some other programming languages to a varying degree:
 <div>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="57" height="64" src="assets/ISO_C++_Logo.svg.png"></a>
   <a href="https://python.org"><img width="64" height="64" src="assets/pypy.png"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"></a>
   <a href="https://en.wikipedia.org/wiki/HTML5"><img width="64" height="64" src="assets/html5.png"></a>
   <a href="https://php.net"><img width="80" height="43" src="assets/php.png"></a>
 </div>
 
 ## ***Some of my projects worth noting:***
   - [acrazytown.com](https://acrazytown.com/)
-      - MY WEBSITE!!! I MADE IT!!! FROM SCRATCH!!!
+      - My epic and awesome website :D! You should check it out!
+      - Uses the standard HTML/CSS/JS stack with a little PHP for some cool serverside stuff.
+      - Does not use any frameworks, it's all written from scratch!
+
+(I used to have more here but it's nothing worth showing off. The list will be expanded in the future!)
   <!--
   - [ace](https://github.com/ACrazyTown/ace)
       - A work-in-progress very early in development C++ game engine that uses SDL2 & OpenGL
-  -->
   - [DingDong's Funkin' v2.0](https://gamebanana.com/mods/301335)
     - The Friday Night Funkin' mod where you battle [DingDongDirt](https://twitter.com/dorbellprod), the world famous small animator!
     - *I don't do FNF stuff anymore... but I spent some time on this mod and I think it turned out kinda cool...*
   - [Donut Dodger](https://acrazytown.itch.io/donut-dodger)
     - A game where you dodge donuts...! (Who would've guessed?)
     - One of my first HaxeFlixel projects, it's old and kinda sucks but I think its good to show the start of a journey.
+  -->
+
+## Notable contributions to open-source software:
+  - [HaxeFlixel](https://github.com/HaxeFlixel/flixel)
+    - [Add onVolumeChange to SoundFrontEnd](https://github.com/HaxeFlixel/flixel/pull/3148)
+    - [Add default antialiasing option to FlxSprite](https://github.com/HaxeFlixel/flixel/pull/2658)
 
 ## ***Socials:***
 - [Website](https://acrazytown.com/) **<--- (made from scratch :D)**
