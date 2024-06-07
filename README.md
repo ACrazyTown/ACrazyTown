@@ -1,3 +1,8 @@
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ACrazyTown/ACrazyTown/blob/main/assets/despicableme.jpg?raw=true');]{x0000}$}****
+```
+
 # <p align="center"><img src="assets/logo.png" alt="A Crazy Town Logo"></p>
 <img align="right" src="https://user-images.githubusercontent.com/47027981/147223424-495d48c3-81d9-4228-8d6b-25d687bfec35.png" alt="Cute dog sniffing the camera.">
 
