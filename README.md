@@ -16,7 +16,7 @@ I also know some other programming languages to a varying degree:
   <a href="https://php.net"><img width="80" height="43" src="assets/php.png"></a>
 </div>
 
-## ***Some of my projects worth noting:***
+## ***Some of my projects:***
   - [acrazytown.com](https://acrazytown.com/)
       - My epic and awesome website :D! You should check it out!
       - Uses the standard HTML/CSS/JS stack with a little PHP for some cool serverside stuff.
@@ -34,10 +34,11 @@ I also know some other programming languages to a varying degree:
     - One of my first HaxeFlixel projects, it's old and kinda sucks but I think its good to show the start of a journey.
   -->
 
-## Notable contributions to open-source software:
+<!-- ## Notable contributions to open-source software:
   - [HaxeFlixel](https://github.com/HaxeFlixel/flixel)
     - [Add onVolumeChange to SoundFrontEnd](https://github.com/HaxeFlixel/flixel/pull/3148)
     - [Add default antialiasing option to FlxSprite](https://github.com/HaxeFlixel/flixel/pull/2658)
+-->
 
 ## ***Socials:***
 - [Website](https://acrazytown.com/) **<--- (made from scratch :D)**
