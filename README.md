@@ -2,29 +2,28 @@
 <img align="right" src="https://user-images.githubusercontent.com/47027981/147223424-495d48c3-81d9-4228-8d6b-25d687bfec35.png" alt="Cute dog sniffing the camera.">
 
 ## ***About Me***
-Hi! I'm **A Crazy Town**! I like doing a lot of random things, whether that be art, animation, composing music or the thing that you're here for, code!
+Hi! I'm **A Crazy Town**! I make various content on the internet sometimes.
 
-Basically I code whatever comes to mind. Silly little games (I rarely finish & release them) or some other cool thing. I primarily use <a href="https://haxe.org">Haxe</a> <a href="https://haxe.org"><img width="18" height="18" src="assets/haxe.png"></a> and the <a href="https://haxeflixel.com">HaxeFlixel framework</a> <a href="https://haxeflixel.com"><img width="18" height="18" src="assets/haxeflixel.svg"></a> if I make games.
+I really enjoy using the <a href="https://haxe.org">Haxe <img width="18" height="18" src="assets/haxe.png"></a> / <a href="https://lime.openfl.org/">lime <img width="24" height="24" src="https://lime.openfl.org/img/logonav.png"></a> / <a href="https://openfl.org/">OpenFL <img width="18" height="18" src="https://www.openfl.org/images/icon.png"></a> / <a href="https://haxeflixel.com">HaxeFlixel <img width="18" height="18" src="assets/haxeflixel.svg"></a> stack and often contribute to it.
 
 I also know some other programming languages to a varying degree:
 <div>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="57" height="64" src="assets/ISO_C++_Logo.svg.png"></a>
   <a href="https://python.org"><img width="64" height="64" src="assets/pypy.png"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS"><img width="44" height="64" src="assets/csslogo.png"></a> <!-- I completely eyeballed the size for this one lmfao -->
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="48" height="48" src="assets/jslogo.png"></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5"><img width="64" height="64" src="assets/html5.png"></a>
   <a href="https://php.net"><img width="80" height="43" src="assets/php.png"></a>
 </div>
-
-I love contributing to open source software!
 
 ## ***Some of my projects:***
   - [acrazytown.com](https://acrazytown.com/)
       - My epic and awesome website :D! You should check it out!
       - Uses the standard HTML/CSS/JS stack with a little PHP for some cool serverside stuff.
       - Does not use any frameworks, it's all written from scratch!
-
-(I used to have more here but it's nothing worth showing off. The list will be expanded in the future!)
+  - [flixel-waveform](https://github.com/ACrazyTown/flixel-waveform)
+      - A `FlxWaveform` is an `FlxSprite` extension that provides a simple yet powerful API for drawing waveforms from audio data.
+  - [Serve A Cat A Fish Dish](https://acrazytown.itch.io/haxejam2024winter) ([source code](https://github.com/ACrazyTown/haxejam-winter-2024))
+      - Your boss Big Fat Cat is blind and needs your help in sorting fish that he can eat. Will you help him?
+      - Made by yours truly, [despawnedd](https://github.com/despawnedd) & [minihifi9898](https://twitter.com/minihifi9898) for the 2024 HaxeJam Winter Edition
   <!--
   - [ace](https://github.com/ACrazyTown/ace)
       - A work-in-progress very early in development C++ game engine that uses SDL2 & OpenGL
