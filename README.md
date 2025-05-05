@@ -20,10 +20,14 @@ I also know some other programming languages to a varying degree:
       - Uses the standard HTML/CSS/JS stack with a little PHP for some cool serverside stuff.
       - Does not use any frameworks, it's all written from scratch!
   - [flixel-waveform](https://github.com/ACrazyTown/flixel-waveform)
-      - A `FlxWaveform` is an `FlxSprite` extension that provides a simple yet powerful API for drawing waveforms from audio data.
+      - A simple yet powerful HaxeFlixel addon for drawing waveforms from sounds
   - [Serve A Cat A Fish Dish](https://acrazytown.itch.io/haxejam2024winter) ([source code](https://github.com/ACrazyTown/haxejam-winter-2024))
       - Your boss Big Fat Cat is blind and needs your help in sorting fish that he can eat. Will you help him?
       - Made by yours truly, [despawnedd](https://github.com/despawnedd) & [minihifi9898](https://twitter.com/minihifi9898) for the 2024 HaxeJam Winter Edition
+  - [dogpaint-visualizer](https://github.com/ACrazyTown/dogpaint-visualizer)
+      - A music visualizer for [canvas4d](https://www.youtube.com/watch?v=iqknD7Vse_Y), created with HaxeFlixel!
+  - [flixel-runtime-texture-size-poc](https://github.com/ACrazyTown/flixel-runtime-texture-resize-poc)
+      - A proof of concept showcasing runtime texture resizing (while retaining original sprite size) in HaxeFlixel.
   <!--
   - [ace](https://github.com/ACrazyTown/ace)
       - A work-in-progress very early in development C++ game engine that uses SDL2 & OpenGL
