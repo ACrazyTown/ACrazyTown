@@ -40,5 +40,5 @@ Here's the rest of my socials where I post random stuff, but you probably should
 
 _(You can find a full list of all my socials [on this page](https://acrazytown.com/socials))_
 
-## That's it (for now...?)
+## ***That's it (for now...?)***
 That's the end.... of my about me... i will now fade out of existence.................. goodbye................................................
