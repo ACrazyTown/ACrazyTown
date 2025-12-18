@@ -28,14 +28,14 @@ Besides Haxe, I'm also familiar with Python, HTML/CSS/JS, C++ and PHP.
     - [Add default antialiasing option to FlxSprite](https://github.com/HaxeFlixel/flixel/pull/2658)
 -->
 
-## ***Socials:***
-(Fair warning, I don't post exclusively programming stuff on these...)
+## ***How to reach me?***
+The fastest way to reach me would be to shoot me a DM on my **Discord** `@acrazytown`! 
+Alternatively, send me a message on [**Twitter (@acrazytown)**](https://x.com/acrazytown).
 
+Here's the rest of my socials where I post random stuff, but you probably shouldn't try to contact me through these:
 - [Website](https://acrazytown.com/) **<--- (made from scratch :D)**
-- Discord (@acrazytown)
 - [YouTube](https://youtube.com/c/acrazytown)
 - [itch.io](https://acrazytown.itch.io/)
-- [Twitter](https://twitter.com/acrazytown)
 - [Soundcloud](https://soundcloud.com/a-crazy-town)
 
 _(You can find a full list of all my socials [on this page](https://acrazytown.com/socials))_
