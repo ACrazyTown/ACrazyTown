@@ -12,6 +12,8 @@ Besides Haxe, I'm also familiar with Python, HTML/CSS/JS, C++ and PHP.
       - My epic and awesome website :D! You should check it out!
       - Uses the standard HTML/CSS/JS stack with a little PHP for some cool serverside stuff.
       - Does not use any frameworks, it's all written from scratch!
+  - [antpak](https://github.com/ACrazyTown/antpak)
+      - A custom (Haxe) implementation of a PAK file archive format. Includes integration with HaxeFlixel! 
   - [flixel-waveform](https://github.com/ACrazyTown/flixel-waveform)
       - A simple yet powerful HaxeFlixel addon for drawing waveforms from sounds
   - [flixel-visualizers](https://github.com/ACrazyTown/flixel-visualizers)
@@ -19,8 +21,6 @@ Besides Haxe, I'm also familiar with Python, HTML/CSS/JS, C++ and PHP.
   - [Serve A Cat A Fish Dish](https://acrazytown.itch.io/haxejam2024winter) ([source code](https://github.com/ACrazyTown/haxejam-winter-2024))
       - Your boss Big Fat Cat is blind and needs your help in sorting fish that he can eat. Will you help him?
       - Made by yours truly, [despawnedd](https://github.com/despawnedd) & [minihifi9898](https://twitter.com/minihifi9898) for the 2024 HaxeJam Winter Edition
-  - [flixel-runtime-texture-size-poc](https://github.com/ACrazyTown/flixel-runtime-texture-resize-poc)
-      - A proof of concept showcasing runtime texture resizing (while retaining original sprite size) in HaxeFlixel.
 
 <!-- ## Notable contributions to open-source software:
   - [HaxeFlixel](https://github.com/HaxeFlixel/flixel)
