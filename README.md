@@ -30,7 +30,7 @@ Besides Haxe, I'm also familiar with Python, HTML/CSS/JS, C++ and PHP.
 
 ## ***How to reach me?***
 The fastest way to reach me would be to shoot me a DM on my **Discord** `@acrazytown`! 
-Alternatively, send me a message on [**Twitter (@acrazytown_)**](https://x.com/acrazytown_).
+Alternatively, send me a message on [**Twitter (@acrazytown)**](https://x.com/acrazytown).
 
 Here's the rest of my socials where I post random stuff, but you probably shouldn't try to contact me through these:
 - [Website](https://acrazytown.com/) **<--- (made from scratch :D)**
